@@ -15,5 +15,5 @@ https://www.chicago.gov/city/en/depts/cdot/supp_info/vision-zero-chicago.html
 
 
 ## Models
-- Logistic Regression /n
-Decision Trees
+- Logistic Regression
+- Decision Trees (incl. Random forest)
